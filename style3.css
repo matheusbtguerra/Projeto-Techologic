@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(abstract-envelope.png);
+    background-position: center;
+    background-size: 20%;
+}
+
+header {
+    background-color: #fff;
+    text-shadow: 5px 5px 2px #000;
+    text-align: center;
+    border-radius: 2px;
+    border-bottom: solid 5px #0075FF;
+    
+}
+
+main {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+footer {
+    font-family: 'Bebas Neue', sans-serif;
+    margin-top: 100%;
+    text-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    background-color: #fff;
+    border-top: solid 5px #0075FF;
+
+}
+
+.border {
+    border-radius: 50px;
+}
+
+.car {
+    border-radius: 60px;
+    border: solid 5px #0075FF;
+}
+
+.sobre {
+    border-radius: 60px;
+    border: solid 5px #0075FF;
+}
+
+.navegador {
+    background: solid white;
+}
+
+.home {
+    border-radius: 60px;
+    border: solid 5px #0075FF;
+}
+
+.bebas {
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #fff;
+    font-size: 2em;
+    text-shadow: 2px 2px 2px #26a9e0, 3px 3px 2px #000;
+}
+
+.gabarito {
+    text-align: center;
+    font-family: 'Gabarito', sans-serif;
+    color: #fff;
+    font-size: 1.3em;
+    text-shadow: 2px 2px 2px #26a9e0, 3px 3px 2px #000;
+}
+
+.back {
+    background-color: #0075FF;
+    border-radius: 30px
+   
+}
